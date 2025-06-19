@@ -1,5 +1,5 @@
 # Hi, I'm Joshika K
-I'm a passionate and driven software developer with a strong interest in creating practical and innovative technology solutions. This portfolio represents my journey in the world of programming—showcasing the skills I’ve developed, the challenges I’ve tackled, and the projects I’ve brought to life. My areas of focus include web development, artificial intelligence(machine learning), and problem-solving through code.
+I'm a passionate about software developement with a strong interest in creating practical and innovative technology solutions. This portfolio represents my journey in the world of programming—showcasing the skills I’ve developed, the challenges I’ve tackled, and the projects I’ve brought to life. My areas of focus include web development, artificial intelligence(machine learning), and problem-solving through code.
 
 
 # Tech Stack:
